@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# WeatherApp
-A small weather app for the browser
-=======
 # Weather Forecast App
 
 This is a simple weather forecast application built with TypeScript, Vite, and the OpenWeatherMap API. The app allows users to get weather information for any city.
@@ -39,4 +35,3 @@ To get started with the project, follow these steps:
 ## Usage
 - Enter the name of a city and click "Show Weather" to get the current weather information.
 - The weather details will be displayed on the page, including temperature, humidity, and weather conditions.
->>>>>>> origin/master
